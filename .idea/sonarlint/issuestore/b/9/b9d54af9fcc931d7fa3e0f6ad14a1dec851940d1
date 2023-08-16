@@ -1,0 +1,15 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ï Úáÿÿÿÿÿ
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(èìï€ıÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ï Úáÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šî§óøÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šî§óøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó‡Øïşÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(èÆ‹šøÿÿÿÿ
+b	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÇªz
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ëÓñ½ùÿÿÿÿ
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¥œ”üÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(à¤Ôıÿÿÿÿ

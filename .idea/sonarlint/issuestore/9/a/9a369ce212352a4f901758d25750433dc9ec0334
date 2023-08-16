@@ -1,0 +1,50 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(î÷ÉŒùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(î÷ÉŒùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(À²ĞÂøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(À²ĞÂøÿÿÿÿ
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+E
+java:S1197"*Move the array designators [] to the type.(´©™Æşÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ĞŒ‚‡ıÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(€®Êáüÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(œ˜åõ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ã¿ùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¿Ğ…Åşÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(œ³Û
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¤õÉàûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(±Š­ñüÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÀïºÈúÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ĞŒ‚‡ıÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(‘•İ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(‡‡¥Âÿÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Õä²ğ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(å°¦Œ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Ğ¾ºÛ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(Úá¯«üÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(‡‡¥Âÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Ôù“»ıÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(×©­«
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(¯¡š ıÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(˜ıÔ’
+h
+java:S1871{"MThis branch's code block is the same as the block for the branch on line 119.(ä·î“üÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ğÓ¨
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ğÓ¨
+E
+java:S2140€")Use "java.util.Random.nextInt()" instead.(Ìí…®ûÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(æ¹€Ë
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(¸ùõØûÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(Íšöéşÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(‰ã†Ÿıÿÿÿÿ
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(™ê»½
+N	java:S106¥"9Replace this use of System.out or System.err by a logger.(áåë@
+İ
+java:S6541
+"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 119 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 29 to 6.(Çµí‘
